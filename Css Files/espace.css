@@ -1,0 +1,59 @@
+body
+{ background-image: url("../Pictures/gym.jpg");
+    background-attachment: fixed;
+background-size:cover;
+color: aliceblue;
+text-align: left;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;}
+
+
+fieldset
+
+{margin-right: 700px;
+border: 0px;}
+
+h1
+{text-align: center;}
+#header 
+{ 
+
+height: 60px;
+margin: 5px ;
+padding: 5px;
+text-align: center;} 
+button,input{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    color: white;
+    font-size:20px ;
+    margin-top: 15px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    
+    background-color:transparent;
+    }
+    .div-categoryContainer{
+        box-sizing: border-box;
+        margin: 10px auto 10px;
+        padding: 10px;
+        width: 80%; min-height: 300px;
+    
+        font-family: sans-serif;
+        font-size: 1em;
+        color:rgb(255, 255, 255);
+    
+        background-color:transparent;
+    }
+    
+    .picture2{
+        border: none;
+        float: right;
+        margin-right: 40px;
+    }
+    
+    .clearfix{
+        margin: 0, padding 0;
+        width: 0; height: 0;
+    }
+    

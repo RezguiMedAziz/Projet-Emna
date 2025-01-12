@@ -1,0 +1,52 @@
+body
+{ background-image: url("../Pictures/gym.jpg");
+    background-attachment: fixed;
+background-size:cover;
+color: aliceblue;
+text-align: center;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;}
+fieldset
+{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+font-size: 15px;
+margin-left:500px;
+margin-right: 500px;
+margin-top: 100px;
+ padding-top: 10px;
+padding-bottom: 30px;
+border-width: 5px;
+border-radius: 20px;
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+}
+legend{font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#header 
+{ 
+
+height: 60px;
+margin: 5px ;
+padding: 5px;
+text-align: center;} 
+button,input{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+    color: white;
+    font-size:20px ;
+    margin-top: 15px;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    
+    background-color:transparent;
+    }
+    h3
+{text-align: center;}
+#footer 
+{text-align: center;
+   }
+   #sa
+   {font-size: 15px;
+}
